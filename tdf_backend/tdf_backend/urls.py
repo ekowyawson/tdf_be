@@ -1,5 +1,5 @@
 """
-URL configuration for tdf project.
+URL configuration for tdf_backend project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.0/topics/http/urls/
